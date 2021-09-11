@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Thư babe à!',
+    introTitle: 'Ngọc babe à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'hì 🥰. anh cũng yêu em  😘😘',
     messDesc: 'chúng mình yêu nhau nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://mai yeu' //
 }
